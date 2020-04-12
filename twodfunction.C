@@ -1,7 +1,7 @@
 void twodfunction()
 {
     // To run this macro just run on root terminal 
-    // .L SimpleFunction.C
+    // .L twodfunction.C
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     //          Author: Muhammad Farooq Email: 2714befarooq@gmail.com 
     //          muhammad.farooq@cern.ch
