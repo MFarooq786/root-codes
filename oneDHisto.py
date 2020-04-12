@@ -1,6 +1,6 @@
 from ROOT import TH1F, TCanvas, kBlue, kRed, TAxis, gStyle, TLegend, TLatex
 #To run this macro just run on the terminal
-#python2 twodfunction.py
+#python2 oneDHisto.py
 c=TCanvas("c","Function",700,700)
 h1=TH1F("histo","My first Histogram",100,-10,10)
 h1.FillRandom("gaus",10000)
