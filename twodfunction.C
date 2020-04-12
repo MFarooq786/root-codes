@@ -50,5 +50,5 @@ void twodfunction()
   ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
    f2->Draw();
    c->Draw();//draw canvas
-   c->SaveAs("twodhisto.png");//To save your output in required your desires
+   c->SaveAs("twodfunction.png");//To save your output in required your desires
 }
